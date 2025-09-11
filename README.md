@@ -1,2 +1,2 @@
 # zenas
-This is my personal site
+This is my personal site, currently undergoing a redux...
